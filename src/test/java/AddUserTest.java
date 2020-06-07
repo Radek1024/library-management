@@ -23,9 +23,6 @@ public class AddUserTest {
         user.setBeginning(now);
         user.setEnd(now.plusDays(14));
 
-        /*UserDao dao = new UserDao();
-        String test = dao.addUser(user) > 0 ? "yupi!":"not yupi";
-        System.out.println(test);*/
 
     }
 
